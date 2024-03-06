@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm passionate about test driven development and l
 
 - 🔭 I’m currently working on NEXTjs skills
 - 🌱 I’m constantly learning and exploring new technologies
-- 👯 I’m looking to collaborate on open source AI projects
+- 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Javascript & React
 - 📫 How to reach me: ehabahmed2456@gmail.com
 - ⚡ Fun fact: Rugby fan 🏉
