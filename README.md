@@ -16,10 +16,6 @@ Welcome to my GitHub profile! I'm passionate about test driven development and l
 - Tools: PostgresSQL | Git
 - Testing: Mocha/Chai | Cypress | Rspec | Jest
 
-## GitHub Stats
-
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ehabahmed23&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehabahmed23&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,4 +30,8 @@ Happy coding! 🚀
 <!---
 ehabahmed23/ehabahmed23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+## GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ehabahmed23&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 --->
