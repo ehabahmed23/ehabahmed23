@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Ehab]
+# Hi there! 👋 I'm Ehab
 
 Welcome to my GitHub profile! I'm passionate about test driven development and learning new things.
 
